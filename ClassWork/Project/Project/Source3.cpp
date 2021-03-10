@@ -22,7 +22,7 @@ double function(double x)
 
 
 
-int main()
+int main3()
 {
 	/*int x = 5, y = 9;
     int res = add(5, 9);
